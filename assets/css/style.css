@@ -3,9 +3,9 @@
 }
 
 :root {
-  --primary: #44e9ff;
-  --secondary: #497980;
-  --tertiary: rgb(192, 246, 253);
+  --primary: #fc5d5d;
+  --secondary: #804977;
+  --tertiary: rgb(253, 208, 192);
   --grey: #333;
   font-size: 62.5%;
 }
